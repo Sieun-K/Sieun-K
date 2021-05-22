@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Sieun's%20Github&fontSize=40)
 
-### Hello world:)
+### Hello world :)
 
 <p>
   <em>
