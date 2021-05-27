@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Sieun's%20Github&fontSize=40)
 
-### Hello world :)
-
 <p>
   <em>
     Let's <b>learn</b> and <b>share</b>!
@@ -13,7 +11,7 @@
 ![Sieun-K's github stats](https://github-readme-stats.vercel.app/api?username=Sieun-K&show_icons=true)
 [![Sieun-K's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sieun-K&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Sieun-K)
 
-### Contacts 📫
+### Contacts
 
 * Github Repo Issue
 * Email: rosa134212k@gmail.com
