@@ -4,12 +4,16 @@
 
 <p>
   <em>
-    Let's <b>learn</b> and <b>share</b>!
+    Hi, there🖐 <br>
+    I want to be a helpful developer later and I'm at the starting point! <br>
+    Is that gonna happen?! The answer is yes!! <br>
+    Alright then, Let's <b>learn</b> and <b>share</b>!
   </em>  
 </p>
 
 ![to-Remember's github stats](https://github-readme-stats.vercel.app/api?username=to-Remember&show_icons=true)
 [![to-Remember's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=to-Remember&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/to-Remember)
+
 
 ### Contacts
 
