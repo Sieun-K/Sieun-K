@@ -5,9 +5,7 @@
 <p>
   <em>
     Hi, there🖐 <br>
-    I want to be a helpful developer later and I'm at the starting point! <br>
-    Is that gonna happen?! The answer is yes!! <br>
-    Alright then, Let's <b>learn</b> and <b>share</b>!
+    Let's <b>learn</b> and <b>share</b>!
   </em>  
 </p>
 
